@@ -1,0 +1,3 @@
+files that we dont want git to track
+*.java
+*.log
